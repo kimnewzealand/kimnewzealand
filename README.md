@@ -6,7 +6,7 @@
 I have recently been learning about AI tooling and Agents:
 
 - Initial repo learning about the [basics of Agents and related libaries](https://github.com/kimnewzealand/agent-tutorial)
-- Then a repo learning about a vector based [RAG Agent](https://github.com/kimnewzealand/rag-tutorial) using a simple use case to pull information from IT compliance documentation
+- Then a repo learning about a vector based [Simple RAG](https://github.com/kimnewzealand/rag-tutorial) using a generic use case to pull information from IT compliance documentation to take action on compliance obligations
 - Currently working on a [Graph RAG](https://github.com/kimnewzealand/graphrag-tutorial)
 
 
