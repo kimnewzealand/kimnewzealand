@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi there 👋https://github.com/kimnewzealand/kimnewzealand/pulse
 
 - 🔭 See my data visualisation project using D3, [Celestial Maps](https://observablehq.com/@kimnewzealand/celestial-maps) and talk called [Connecting the Stars](https://connected-stars.netlify.app/)
-- See some of my other talks [Art of Maps](artofmaps.netlify.app/) and [Art of Maps Episode 2](artofmaps2.netlify.app/)
+- See some of my other talks [artofmaps.netlify.app/](artofmaps.netlify.app/) and [artofmaps2.netlify.app/](artofmaps2.netlify.app/)
 
 I have recently been learning about AI tooling and Agents:
 
