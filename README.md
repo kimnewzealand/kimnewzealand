@@ -19,7 +19,7 @@ I have recently been upskiling in AI systems, tooling, LLMs and agents:
 #### Apps
 
 I have been creating simple standalone web applications hosted on GitHub Pages using AI coding assistants.
-See [apps]([https://github.com/kimnewzealand?tab=repositories](https://github.com/kimnewzealand/apps))
+See [apps](https://github.com/kimnewzealand/apps)
 
 #### Personal Blog
 
