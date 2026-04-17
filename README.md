@@ -4,8 +4,8 @@ Welcome to my portfolio.
 
 #### Talks
 
-- 🔭 See my data visualisation project using D3, [Celestial Maps](https://observablehq.com/@kimnewzealand/celestial-maps) and talk called [Connecting the Stars](https://connected-stars.netlify.app/)
-- See some of my other talks [Art of Maps at the nz.js conference  2021](https://www.youtube.com/watch?v=vGcT9-T043c), slides [artofmaps.netlify.app/](artofmaps.netlify.app/) and [artofmaps2.netlify.app/](artofmaps2.netlify.app/)
+- 🔭 See my data visualisation project using D3, [Celestial Maps](https://observablehq.com/@kimnewzealand/celestial-maps) and related talk called [Connecting the Stars](https://connected-stars.netlify.app/)
+- Other talks include [Art of Maps at the nz.js conference  2021](https://www.youtube.com/watch?v=vGcT9-T043c), slides [artofmaps.netlify.app/](artofmaps.netlify.app/) and [artofmaps2.netlify.app/](artofmaps2.netlify.app/)
 
 #### Tutorials
 
@@ -22,6 +22,8 @@ I have been creating simple standalone web applications hosted on GitHub Pages u
 See [apps](https://github.com/kimnewzealand/apps)
 
 #### Personal Blog
+
+My personal blog has various data visualisation blogs and projects, using R, D3, JavaScript and more recently experimenting with Python
 
 [https://kimnewzealand.github.io/](https://kimnewzealand.github.io/)
 
