@@ -5,7 +5,7 @@ Welcome to my portfolio.
 #### Talks
 
 - 🔭 See my data visualisation project using D3, [Celestial Maps](https://observablehq.com/@kimnewzealand/celestial-maps) and talk called [Connecting the Stars](https://connected-stars.netlify.app/)
-- See some of my other talks [artofmaps.netlify.app/](artofmaps.netlify.app/) and [artofmaps2.netlify.app/](artofmaps2.netlify.app/)
+- See some of my other talks [Art of Maps at the nz.js conference  2021](https://www.youtube.com/watch?v=vGcT9-T043c), slides [artofmaps.netlify.app/](artofmaps.netlify.app/) and [artofmaps2.netlify.app/](artofmaps2.netlify.app/)
 
 #### Tutorials
 
